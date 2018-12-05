@@ -1,17 +1,17 @@
-typography_spectrum: 0.45303041382858733
+layout_spectrum: 0.04506198255686403
+typography_spectrum: 0.7763745134583868
 color:
-  brandStrength: 0.39814548613374484
-  lightness: 0.25448336133198574
-  saturation: 0.13028901032430332
-  rhythmicContrast: 0.051122037561997624
+  brandStrength: 0.17700820946033197
+  lightness: 0.11003444689030915
+  saturation: 0.768342258894982
+  rhythmicContrast: 0.568280389870766
   brandColors:
-    - '#225378'
-    - '#1695A3'
-    - '#ACF0F2'
-    - '#F3FFE2'
-    - '#EB7F00'
+    - '#FFFFFF'
+    - '#09080D'
+    - '#755834'
+    - '#DAD097'
+    - '#958D5C'
 github: true
-layout_spectrum: 0.2007845397213345
 author:
   name: Dave Helmuth
   email: dave@adlibmusic.com
