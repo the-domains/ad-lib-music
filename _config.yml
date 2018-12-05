@@ -10,6 +10,7 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
+github: true
 layout_spectrum: 0.2007845397213345
 author:
   name: Dave Helmuth
@@ -30,7 +31,9 @@ navigation:
   - name: Four
     id: 7f7e6aec-60a8-4c04-a337-77ee05f8e84a
     type: content
+  - name: Five
+    id: 04028ca0-1553-45e8-9972-050b25c83742
+    type: content
 title: Reconstructing Christmas
 content: []
 description: An honest journey back to the advent of Christmas
-github: true
