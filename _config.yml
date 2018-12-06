@@ -1,4 +1,3 @@
-layout_spectrum: 0.04506198255686403
 typography_spectrum: 0.7763745134583868
 color:
   brandStrength: 0.17700820946033197
@@ -12,6 +11,7 @@ color:
     - '#DAD097'
     - '#958D5C'
 github: true
+layout_spectrum: 0.04506198255686403
 author:
   name: Dave Helmuth
   email: dave@adlibmusic.com
@@ -33,6 +33,9 @@ navigation:
     type: content
   - name: Five
     id: 04028ca0-1553-45e8-9972-050b25c83742
+    type: content
+  - name: Six
+    id: 92565be1-7f1e-4d18-be81-6728fb056c5a
     type: content
 title: Reconstructing Christmas
 content: []
