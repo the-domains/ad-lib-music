@@ -37,6 +37,9 @@ navigation:
   - name: Six
     id: 92565be1-7f1e-4d18-be81-6728fb056c5a
     type: content
+  - name: Seven
+    id: 188e60d7-95f7-4039-8fb3-5d6a606fdc22
+    type: content
 title: Reconstructing Christmas
 content: []
 description: An honest journey back to the advent of Christmas
