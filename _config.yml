@@ -40,11 +40,11 @@ navigation:
   - name: Seven
     id: 188e60d7-95f7-4039-8fb3-5d6a606fdc22
     type: content
-  - name: Eight
-    id: 27d95cee-9ed8-46bf-99a5-dd94f21e3f36
-    type: content
   - name: Nine
     id: b7877258-d703-49c3-af8c-90c3da323154
+    type: content
+  - name: Eight
+    id: 27d95cee-9ed8-46bf-99a5-dd94f21e3f36
     type: content
   - name: Ten
     id: 5c2cefc3-0d77-4340-b7ef-36d6666613cb
