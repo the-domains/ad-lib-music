@@ -46,6 +46,9 @@ navigation:
   - name: Nine
     id: b7877258-d703-49c3-af8c-90c3da323154
     type: content
+  - name: Ten
+    id: 5c2cefc3-0d77-4340-b7ef-36d6666613cb
+    type: content
 title: Reconstructing Christmas
 content: []
 description: An honest journey back to the advent of Christmas
