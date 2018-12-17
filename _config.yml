@@ -52,6 +52,9 @@ navigation:
   - name: Eleven
     id: 3117c509-9a2c-4906-a9b6-f7918bc0ef7d
     type: content
+  - name: Twelve
+    id: 80a11140-b2ca-4311-a43b-89062e889a60
+    type: content
 title: Reconstructing Christmas
 content: []
 description: An honest journey back to the advent of Christmas
